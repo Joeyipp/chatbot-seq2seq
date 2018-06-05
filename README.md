@@ -2,6 +2,9 @@
 ### Description
 A Deep Learning Based Chatbot implemented using the [Seq2Seq](https://github.com/google/seq2seq) model and trained on the [Cornell Movie Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).
 
+![Sample](https://github.com/Joeyipp/chatbot-seq2seq/blob/master/images/seq2seq.PNG)
+###### Image source: [Deep Learning for Chatbots Part 1](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+
 ### Get Started
 To run the .ipynb locally:
 1. Clone this repository.
