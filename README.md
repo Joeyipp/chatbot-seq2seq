@@ -7,7 +7,7 @@ A Deep Learning Based Chatbot implemented using the [Seq2Seq](https://github.com
 
 ### Get Started
 To run the .ipynb locally:
-1. Clone this repository.
+1. Clone this repository
 2. (Optional) Create a new environment in Anaconda Terminal/ Prompt: ```conda create -n chatbot python=3.5 anaconda```
 3. ```source activate chatbot```
 4. ```pip install tensorflow==1.0.0```
