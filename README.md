@@ -1,4 +1,4 @@
-## Chatbot Seq2Seq
+## Chatbot Seq2Seq (RNN-LSTM)
 ### Description
 A Deep Learning Based Chatbot implemented using the [Seq2Seq](https://github.com/google/seq2seq) model and trained on the [Cornell Movie Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).
 
